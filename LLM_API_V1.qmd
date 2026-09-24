@@ -131,7 +131,6 @@ system('setx OPENAI_API_KEY "your_openai_key_here"')
 ```
 
 Remember to restart R after setting your key in order for R to be able to find the key.
-<!-- @Arnim: Was ist gute Praxis, um solche Keys zu hinterlegen? Ich hätte es in Renvironment und mit gitignore gearbeitet, aber das macht den Transfer zu Python schwierig oder? Aber wie ist das mit VMs bzw. interaktiven Environments?-->
 
 Retrieving the key in R after restarting:
 ```{r}
