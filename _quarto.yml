@@ -3,7 +3,7 @@ project:
 
 format:
   html:
-    code-fold: true
+    code-fold: false
     toc: true
     toc-depth: 3
 
